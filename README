@@ -1,0 +1,7 @@
+Created By Ben Watts (21/05/2013)
+
+A basic Octree created in AS3 that is used for a basic
+collision detection to stop the checking of objects
+that don't need to be checked for collision.
+
+This project is freeware
